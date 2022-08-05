@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/games/static/css/main.09621ae6.css",
+    "main.js": "/games/static/js/main.4e05ca6f.js",
+    "static/media/prof.jpg": "/games/static/media/prof.07cdb1699b37672776f1.jpg",
+    "static/media/Loading2.gif": "/games/static/media/Loading2.3910906e0065c503ead0.gif",
+    "static/media/student.png": "/games/static/media/student.1aba47d17a1a420a7bfd.png",
+    "static/media/game.png": "/games/static/media/game.790bebc5408cc3daf663.png",
+    "static/media/notification.svg?s3g3t9": "/games/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "/games/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/games/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/games/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "index.html": "/games/index.html",
+    "main.09621ae6.css.map": "/games/static/css/main.09621ae6.css.map",
+    "main.4e05ca6f.js.map": "/games/static/js/main.4e05ca6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09621ae6.css",
+    "static/js/main.4e05ca6f.js"
+  ]
+}
